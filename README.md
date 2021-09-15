@@ -3,4 +3,4 @@
 
 *Life Expectancy.csv* - dataset for life-expectancy 
 
-*Life-Expectancy.ipynb* - **jupyter notebook** for life-expectancy
+*Life-Expectancy.ipynb* - **Jupyter notebook** for life-expectancy
